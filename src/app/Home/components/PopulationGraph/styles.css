@@ -1,0 +1,11 @@
+.population-graph {
+  width: 80%;
+  height: 350px;
+}
+
+@media screen and (max-width: 767px) {
+  .population-graph {
+    width: 100%;
+    height: 200px;
+  }
+}
